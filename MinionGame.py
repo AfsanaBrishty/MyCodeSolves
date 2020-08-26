@@ -1,4 +1,4 @@
-PROBLEM:
+'''PROBLEM:
 Kevin and Stuart want to play the 'The Minion Game'.
 Game Rules:
 Both players are given the same string, S.
@@ -15,7 +15,7 @@ Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 Print one line: the name of the winner and their score separated by a space.
 If the game is a draw, print Draw.
 
-MY SOLVE:
+MY SOLVE:'''
 def minion_game(string):
     # your code goes here
     Kevin=0 
