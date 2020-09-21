@@ -1,5 +1,5 @@
 # Banker's Algorithm in Python By Afsana Afrin Brishty#
-'''process=5
+'''process=3
 resource=3
 avail = [3, 3, 2]
 max = [[7, 5, 3], [3, 2, 2], [9, 0, 2], [4, 2, 2], [5, 3, 3]]
